@@ -1,5 +1,5 @@
-#build method
+# build method
 npm i -f
 
-#run method
+# run method
 npm start
